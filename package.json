@@ -1,0 +1,19 @@
+{
+  "name": "optik",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dailyraisin/optik.git"
+  },
+  "author": "Joe K",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dailyraisin/optik/issues"
+  },
+  "homepage": "https://github.com/dailyraisin/optik#readme"
+}
